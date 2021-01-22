@@ -1,0 +1,13 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <artifactId>maven-training</artifactId>
+        <groupId>blibli-future</groupId>
+        <version>1</version>
+    </parent>
+
+    <artifactId>maven-training-module-1</artifactId>
+    <name>maven-training-module-1</name>
+
+</project>
